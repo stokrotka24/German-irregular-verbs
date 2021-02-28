@@ -4,4 +4,4 @@ Default translation is in polish.
 
 To launch this app, you should:
 1. Launch SQL-script (mysql/mariadb).
-2. Launch python script and learn!
+2. Launch python script and enjoy learning german! :)
